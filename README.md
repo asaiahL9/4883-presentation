@@ -87,10 +87,10 @@ Check next digit: **2**
 2 is the lowest digit in the string, however, changing its position can only make the price lower.
 But the 2 can be flipped to become a 5.
 ![image](https://user-images.githubusercontent.com/54819920/205992677-900453b4-a96f-4018-9ed7-287ce6ee1783.png)
-Next Price = 2692592.9
+#### Next Price = 2692592.9
 
-Now the new next price has been discovered, but it can still be lower.
-The 9 can also be flipped and rotated into a 6!
+#### Now the new next price has been discovered, but it can still be lower.
+#### The 9 can also be flipped and rotated into a 6!
 
 ![image](https://user-images.githubusercontent.com/54819920/205993448-c52ea167-cc0a-49f6-8992-5236c21c7aec.png)
  
