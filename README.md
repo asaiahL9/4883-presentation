@@ -92,4 +92,4 @@ Now the new next price has been discovered, but it can still be lower.
 The 9 can also be flipped and rotated into a 6!
 
 ![image](https://user-images.githubusercontent.com/54819920/205993448-c52ea167-cc0a-49f6-8992-5236c21c7aec.png)
-
+ 
