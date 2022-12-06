@@ -72,3 +72,24 @@ The price cannot be raised.
 6.9
 **The price cannot be raised.**
 9.6
+
+Algorithm:
+Search for smallest digit in string and replace digit in that cell.
+Then store string as next lowest price.
+Check every digit for potential changes.
+
+![image](https://user-images.githubusercontent.com/54819920/205991451-d3b68a30-d200-4b28-8d1b-4aefe0ae5bdb.png)
+Next Price = 2692592.9
+9 is the largest digit.
+Check next digit: 2.
+![image](https://user-images.githubusercontent.com/54819920/205991979-449ce427-7c4a-4c6b-bc25-53e655e0550c.png)
+2 is the lowest digit in the string, however, changing its position can only make the price lower.
+But the 2 can be flipped to become a 5.
+![image](https://user-images.githubusercontent.com/54819920/205992677-900453b4-a96f-4018-9ed7-287ce6ee1783.png)
+Next Price = 2692592.9
+
+Now the new next price has been discovered, but it can still be lower.
+The 9 can also be flipped and rotated into a 6!
+
+![image](https://user-images.githubusercontent.com/54819920/205993448-c52ea167-cc0a-49f6-8992-5236c21c7aec.png)
+
