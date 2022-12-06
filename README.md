@@ -82,7 +82,7 @@ Check every digit for potential changes.
 
 #### Next Price = 2692592.9
 #### 9 is the largest digit.
-Check next digit: 2.
+Check next digit: **2**
 ![image](https://user-images.githubusercontent.com/54819920/205991979-449ce427-7c4a-4c6b-bc25-53e655e0550c.png)
 2 is the lowest digit in the string, however, changing its position can only make the price lower.
 But the 2 can be flipped to become a 5.
