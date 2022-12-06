@@ -78,7 +78,8 @@ Search for smallest digit in string and replace digit in that cell.
 Then store string as next lowest price.
 Check every digit for potential changes.
 
-![image](https://user-images.githubusercontent.com/54819920/205991451-d3b68a30-d200-4b28-8d1b-4aefe0ae5bdb.png)
+![df0a8bff45fc60cacafe27e8b34ce20d](https://user-images.githubusercontent.com/54819920/205994015-22ce6d28-de45-4369-96aa-5801a0deb323.png)
+
 Next Price = 2692592.9
 9 is the largest digit.
 Check next digit: 2.
