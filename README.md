@@ -1,4 +1,4 @@
-# [UVa 845](https://onlinejudge.org/external/8/845.pdf) - Traffic Lights
+# [UVa 845](https://onlinejudge.org/external/8/845.pdf) - Gas Station Numbers
 
 Many gas stations use plastic digits on an illuminated sign to indicate prices. When there is an
 insufficient quantity of a particular digit, the attendant may substitute another one upside down.
