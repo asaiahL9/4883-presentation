@@ -80,8 +80,8 @@ Check every digit for potential changes.
 
 ![df0a8bff45fc60cacafe27e8b34ce20d](https://user-images.githubusercontent.com/54819920/205994015-22ce6d28-de45-4369-96aa-5801a0deb323.png)
 
-Next Price = 2692592.9
-9 is the largest digit.
+#### Next Price = 2692592.9
+#### 9 is the largest digit.
 Check next digit: 2.
 ![image](https://user-images.githubusercontent.com/54819920/205991979-449ce427-7c4a-4c6b-bc25-53e655e0550c.png)
 2 is the lowest digit in the string, however, changing its position can only make the price lower.
