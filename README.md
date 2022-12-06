@@ -73,10 +73,10 @@ The price cannot be raised.
 **The price cannot be raised.**
 9.6
 ```
-Algorithm:
-Search for smallest digit in string and replace digit in that cell.
-Then store string as next lowest price.
-Check every digit for potential changes.
+#### Algorithm:
+#### Search for smallest digit in string and replace digit in that cell.
+#### Then store string as next lowest price.
+#### Check every digit for potential changes.
 
 ![df0a8bff45fc60cacafe27e8b34ce20d](https://user-images.githubusercontent.com/54819920/205994015-22ce6d28-de45-4369-96aa-5801a0deb323.png)
 
