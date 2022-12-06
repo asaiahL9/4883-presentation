@@ -72,7 +72,7 @@ The price cannot be raised.
 6.9
 **The price cannot be raised.**
 9.6
-
+```
 Algorithm:
 Search for smallest digit in string and replace digit in that cell.
 Then store string as next lowest price.
